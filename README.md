@@ -1,1 +1,1 @@
-This is my favorite git repo
+This is my second favorite git repo
